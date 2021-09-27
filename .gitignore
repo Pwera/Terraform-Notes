@@ -1,0 +1,6 @@
+terraform-key.json
+.terraform/
+.terraform*
+terraform.tfstate*
+
+temp/
