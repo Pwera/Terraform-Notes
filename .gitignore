@@ -4,3 +4,4 @@ terraform-key.json
 terraform.tfstate*
 
 temp/
+temp_data
