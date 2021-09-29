@@ -1,0 +1,1 @@
+Docker provider with join() function used in output variable.
